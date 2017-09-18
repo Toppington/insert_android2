@@ -15,7 +15,7 @@ buildscript {
 }
 
 repositories {
-    mavenCentral();
+    mavenCentral()
 }
 
 apply plugin: 'java'
